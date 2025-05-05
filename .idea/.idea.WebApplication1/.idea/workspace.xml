@@ -8,7 +8,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2ccf8f7-a2d8-4b36-9ae6-f6ac54a6e7ca" name="Changes" comment="apbd 7 done" />
+    <list default="true" id="e2ccf8f7-a2d8-4b36-9ae6-f6ac54a6e7ca" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/WebApplication1.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication1/Controllers/ClientController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication1/Entities/BaseEntity.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication1/Entities/Client.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication1/Entities/ClientTrip.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication1/Entities/Country.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication1/Entities/Trip.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication1/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication1/Properties/launchSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication1/Repositories/Abstract/IClientRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication1/Repositories/Repos/ClientRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication1/WebApplication1.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication1/appsettings.Development.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication1/appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/global.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,20 +67,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Launch Settings Profile.WebApplication1: http.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Launch Settings Profile.WebApplication1: http.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Rebasing main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected=".NET Launch Settings Profile.WebApplication1: http">
     <configuration name="WebApplication1: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/WebApplication1/WebApplication1.csproj" />
@@ -104,7 +121,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1746446128448</updated>
-      <workItem from="1746446130315" duration="12975000" />
+      <workItem from="1746446130315" duration="13304000" />
     </task>
     <task id="LOCAL-00001" summary="apbd 7 done">
       <option name="closed" value="true" />
